@@ -68,6 +68,10 @@ EJERCICIOS CAPÍTULO 2
 
 ![image](https://user-images.githubusercontent.com/104911658/201757068-aebaf18a-f8ac-402e-bde6-e90bc217a170.png)
 
+VIDEO
+
+https://youtu.be/Sk0PFGV5WDU
+
 CONCLUSIONES 
 
 • Al realizar los ejercicios propuestos se llegó a la conclusión de que existen varias unidades de medida en el SI y todas guardan una relación entre si permitiéndonos de esta manera realizar conversiones para obtener resultados en diferentes Unidades de medida según necesitemos.
